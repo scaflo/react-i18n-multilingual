@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "projects": "Projects",
+    "legal": "Legal"
+  },
+  "footer": {
+    "copyright": "© 2024 Lingual Inc. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "buttons": {
+    "submit": "Submit",
+    "learnMore": "Learn More"
+  },
+  "seo": {
+    "defaultTitle": "Lingual - Multilingual Website",
+    "defaultDescription": "A demonstration of a scalable multilingual website architecture."
+  }
+}

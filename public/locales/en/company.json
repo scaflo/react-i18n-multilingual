@@ -1,0 +1,10 @@
+{
+  "about": {
+    "title": "About Us",
+    "description": "Lingual is designed to solve the complexity of large-scale multilingual react applications. We define a rigid yet flexible structure for routing and translations."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "email": "hello@lingual.example.com"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "name": {
+      "label": "पूरा नाम",
+      "placeholder": "जैसे, राहुल कुमार"
+    },
+    "email": {
+      "label": "ईमेल पता",
+      "placeholder": "rahul@example.com"
+    },
+    "message": {
+      "label": "संदेह",
+      "placeholder": "हम आपकी कैसे सहायता कर सकते हैं?"
+    }
+  }
+}

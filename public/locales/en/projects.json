@@ -1,0 +1,18 @@
+{
+  "list": {
+    "title": "Our Projects",
+    "subtitle": "Explore our portfolio of multilingual applications."
+  },
+  "project1": {
+    "title": "E-Commerce Platform",
+    "description": "A fully localized shopping experience supporting 5 currencies and 12 languages."
+  },
+  "project2": {
+    "title": "Health Dashboard",
+    "description": "Secure medical records system compliant with regional data laws."
+  },
+  "project3": {
+    "title": "Social Network",
+    "description": "Connecting communities with real-time translation chat features."
+  }
+}

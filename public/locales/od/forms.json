@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "name": {
+      "label": "ପୂର୍ଣ୍ଣ ନାମ",
+      "placeholder": "ଉଦାହରଣ ସ୍ଵରୂପ, ଜନ୍ ଡୋ"
+    },
+    "email": {
+      "label": "ଇମେଲ୍ ଠିକଣା",
+      "placeholder": "john@example.com"
+    },
+    "message": {
+      "label": "ବାର୍ତ୍ତା",
+      "placeholder": "ଆମେ ଆପଣଙ୍କୁ କିପରି ସାହାଯ୍ୟ କରିପାରିବୁ?"
+    }
+  }
+}
